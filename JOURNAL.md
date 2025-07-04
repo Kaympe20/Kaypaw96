@@ -23,3 +23,19 @@ I created the basic layout of the keyswitches in the schematic after learning ho
 Time Spent: 2hr
 
 ---
+
+I wired up the matrix with labels
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a3a0ca186cb5de0d7edd43af8fb941454b406b0a_image.png)
+
+Time Spent: 1.5hr
+
+---
+
+The pico didn't have enough pins so I've begun work directly using the RP2040 using the [RP2040 hardware design datasheet](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf).
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e6719d96c81a1639f9b2c05f53cf33184b02999_image.png)
+
+Time Spent 3hr
+
+---
