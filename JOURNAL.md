@@ -56,6 +56,7 @@ I research JLC PCBA Extended and added all of the neopixels on a single pin that
 Time Spent: 1.5hr
 
 ---
+
 I got a dark theme to stop searing my eyes and got capacitors for the NeoPixels, as well as having to figure out that 0.1uF is the same as 100nF.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc9e8e9d4b430f0bbe956d89ae7ef471cf1f8c21_image.png)
@@ -63,3 +64,9 @@ I got a dark theme to stop searing my eyes and got capacitors for the NeoPixels,
 Time Spent: 2hr
 
 ---
+
+I found 0805 capacitors of varying capcity on [LCSC](https://lcsc.com/), imported them using [`easyeda2kicad`](https://github.com/uPesy/easyeda2kicad.py). I then assigned each type to its respective item, before realizing that the ESR of 0805 capacitors is too much for the RP2040 and that I would need 0402 alternatives. After going back to get the diodes, I couldn't find footprints so I had to slightly modify the template 0402 footprint.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/962c379ded31283c0a6f65fe54aaf0208e1df729_image.png)
+
+Time Spent: 3.5hr
