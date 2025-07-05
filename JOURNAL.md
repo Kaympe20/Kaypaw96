@@ -39,3 +39,20 @@ The pico didn't have enough pins so I've begun work directly using the RP2040 us
 Time Spent 3hr
 
 ---
+
+I finished up the setup for the RP2040 including power delivery, USB communications, and 
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/628352ad440f64f340b11410bc5efb963d06fffd_image.png)
+
+
+Time Spent: 3.5 hr
+
+---
+
+I research JLC PCBA Extended and added all of the neopixels on a single pin that will draw 1.3A.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/af1464ef197b6ba9b5433839f6e94bf1095fa65c_image.png)
+
+Time Spent: 1.5hr
+
+---
