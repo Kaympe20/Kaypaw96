@@ -56,3 +56,10 @@ I research JLC PCBA Extended and added all of the neopixels on a single pin that
 Time Spent: 1.5hr
 
 ---
+I got a dark theme to stop searing my eyes and got capacitors for the NeoPixels, as well as having to figure out that 0.1uF is the same as 100nF.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc9e8e9d4b430f0bbe956d89ae7ef471cf1f8c21_image.png)
+
+Time Spent: 2hr
+
+---
