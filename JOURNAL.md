@@ -70,3 +70,13 @@ I found 0805 capacitors of varying capcity on [LCSC](https://lcsc.com/), importe
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/962c379ded31283c0a6f65fe54aaf0208e1df729_image.png)
 
 Time Spent: 3.5hr
+
+---
+
+I started designing the PCB and started the grueling wiring of each individual key and light. I want to cry <img src="https://emoji.slack-edge.com/T0266FRGM/hdheavysob/3c96038a66442dc6.png" width=20>. My fingers and my soul are in pain.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/199011b9da2bc830c324a42149f0a03e34c708a7_image.png)\
+
+Time Spent: 5.5hr
+
+---
