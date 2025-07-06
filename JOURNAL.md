@@ -75,8 +75,14 @@ Time Spent: 3.5hr
 
 I started designing the PCB and started the grueling wiring of each individual key and light. I want to cry <img src="https://emoji.slack-edge.com/T0266FRGM/hdheavysob/3c96038a66442dc6.png" width=20>. My fingers and my soul are in pain.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/199011b9da2bc830c324a42149f0a03e34c708a7_image.png)\
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/199011b9da2bc830c324a42149f0a03e34c708a7_image.png)
 
-Time Spent: 5.5hr
+Time Spent: 2.5hr
 
 ---
+
+I finished adding all of the neopixels, all 105 of them.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f102d579128bc67d136db932ba23f202447350d_image.png)
+
+Time Spent: 1.5hr

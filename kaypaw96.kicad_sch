@@ -14565,6 +14565,81 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:SK6812MINI")
+		(at 394.97 374.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "027fb836-e9fd-423e-afb9-b9afd93e2aba")
+		(property "Reference" "D210"
+			(at 390.144 381.762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI"
+			(at 394.716 366.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI Reverse:SK6812MINI-E"
+			(at 396.24 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+			(at 397.51 384.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 394.97 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "11c16365-d07f-425e-b60d-fb5cf8ccaac5")
+		)
+		(pin "4"
+			(uuid "b08bd6b1-2b15-4efa-b550-026cb69d7832")
+		)
+		(pin "2"
+			(uuid "70860a19-db57-459f-a8bd-87b30d40d54e")
+		)
+		(pin "1"
+			(uuid "c2430abb-1baa-4e33-858f-e6f775bd143b")
+		)
+		(instances
+			(project "kaypaw96"
+				(path "/a6e0ccda-1535-44e0-8d50-fb561a448480"
+					(reference "D210")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 76.2 250.19 0)
 		(unit 1)
@@ -18799,10 +18874,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7f")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d49")
 		)
 		(instances
 			(project ""
@@ -24319,10 +24394,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed80")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4a")
 		)
 		(instances
 			(project ""
@@ -26292,10 +26367,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed81")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4b")
 		)
 		(instances
 			(project ""
@@ -28880,6 +28955,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 394.97 382.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "560e2420-478a-45b1-b6a5-e7b4db1cfc5d")
+		(property "Reference" "#PWR0242"
+			(at 394.97 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 394.97 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 394.97 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 394.97 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 394.97 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b13896a3-2b89-4c5c-8352-98e1fb85f6fb")
+		)
+		(instances
+			(project "kaypaw96"
+				(path "/a6e0ccda-1535-44e0-8d50-fb561a448480"
+					(reference "#PWR0242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 440.69 266.7 0)
 		(unit 1)
@@ -30568,10 +30709,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed82")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4c")
 		)
 		(instances
 			(project ""
@@ -34317,10 +34458,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed83")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4d")
 		)
 		(instances
 			(project ""
@@ -37098,10 +37239,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed84")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4e")
 		)
 		(instances
 			(project ""
@@ -37261,10 +37402,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed85")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d4f")
 		)
 		(instances
 			(project ""
@@ -39745,10 +39886,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed86")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d50")
 		)
 		(instances
 			(project ""
@@ -40284,10 +40425,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed87")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d51")
 		)
 		(instances
 			(project ""
@@ -41119,10 +41260,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed88")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d52")
 		)
 		(instances
 			(project ""
@@ -41878,10 +42019,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed89")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d53")
 		)
 		(instances
 			(project ""
@@ -42631,10 +42772,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8a")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d54")
 		)
 		(instances
 			(project ""
@@ -46462,10 +46603,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8b")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d55")
 		)
 		(instances
 			(project ""
@@ -46794,10 +46935,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8c")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d56")
 		)
 		(instances
 			(project ""
@@ -49806,10 +49947,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8d")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d57")
 		)
 		(instances
 			(project ""
@@ -51746,6 +51887,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 394.97 365.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c28638fd-7331-47cf-9ed2-fd3d1a310d48")
+		(property "Reference" "#PWR01"
+			(at 394.97 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 394.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 394.97 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 394.97 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 394.97 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe4d7e82-5395-4e36-a6d1-c047e1337c75")
+		)
+		(instances
+			(project "kaypaw96"
+				(path "/a6e0ccda-1535-44e0-8d50-fb561a448480"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 243.84 307.34 0)
 		(unit 1)
@@ -52235,10 +52442,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8e")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d58")
 		)
 		(instances
 			(project ""
@@ -62384,10 +62591,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "782756ca-ab2c-45f6-b563-78918b5bed7e")
+			(uuid "782756ca-ab2c-45f6-b563-78918b5bed8f")
 		)
 		(pin "2"
-			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d48")
+			(uuid "3de4978a-99e2-4e21-8e1e-9b8cc78c4d59")
 		)
 		(instances
 			(project ""
