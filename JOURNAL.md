@@ -81,8 +81,18 @@ Time Spent: 2.5hr
 
 ---
 
-I finished adding all of the neopixels, all 105 of them.
+I finished adding all of the neopixels, all 105 of them <img src="https://emoji.slack-edge.com/T0266FRGM/hdheavysob/3c96038a66442dc6.png" width=20>.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f102d579128bc67d136db932ba23f202447350d_image.png)
 
 Time Spent: 1.5hr
+
+---
+
+I added more capacitors as per the spec of the SK6812-MINI's... 52 of them. I love KiCAD.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6c4dc1273d6f9d76a6ed650c2f125c67bf88eb20_image.png)
+
+Time Spent: 1.5hr
+
+---
