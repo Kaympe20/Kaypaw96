@@ -4127,6 +4127,12 @@
 		(uuid "0fb3a3ad-6ac4-4560-8e80-48ca1a50369b")
 	)
 	(junction
+		(at 543.56 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "104e4948-1576-401c-b394-17cbf80138b7")
+	)
+	(junction
 		(at 304.8 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5283,6 +5289,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86bb9eaa-18b8-46d7-a29a-71a009c228a4")
+	)
+	(junction
+		(at 543.56 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86eb82ea-62e0-4d8f-9ce2-3cd4ba9de75f")
 	)
 	(junction
 		(at 344.17 270.51)
@@ -8744,7 +8756,7 @@
 	)
 	(wire
 		(pts
-			(xy 537.21 186.69) (xy 549.91 186.69)
+			(xy 537.21 186.69) (xy 543.56 186.69)
 		)
 		(stroke
 			(width 0)
@@ -10554,6 +10566,16 @@
 	)
 	(wire
 		(pts
+			(xy 543.56 179.07) (xy 549.91 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac18f01d-ac0a-43c1-9777-7c5aec5353be")
+	)
+	(wire
+		(pts
 			(xy 389.89 242.57) (xy 394.97 242.57)
 		)
 		(stroke
@@ -11104,6 +11126,16 @@
 	)
 	(wire
 		(pts
+			(xy 394.97 365.76) (xy 394.97 367.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c67b5772-c203-497d-a933-40ed372ac229")
+	)
+	(wire
+		(pts
 			(xy 379.73 262.89) (xy 384.81 262.89)
 		)
 		(stroke
@@ -11564,7 +11596,7 @@
 	)
 	(wire
 		(pts
-			(xy 537.21 179.07) (xy 549.91 179.07)
+			(xy 537.21 179.07) (xy 543.56 179.07)
 		)
 		(stroke
 			(width 0)
@@ -11911,6 +11943,16 @@
 			(type default)
 		)
 		(uuid "e63e240b-9351-4a79-9ab3-524102a082aa")
+	)
+	(wire
+		(pts
+			(xy 543.56 186.69) (xy 549.91 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6fb0649-533a-4550-8de4-1db7ad090550")
 	)
 	(wire
 		(pts
@@ -48618,7 +48660,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 543.6193 182.7456 0)
+		(at 543.56 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -48626,7 +48668,7 @@
 		(dnp no)
 		(uuid "b27384de-d873-4600-9b61-faa8e24c3326")
 		(property "Reference" "C9"
-			(at 542.0953 173.3476 0)
+			(at 542.036 173.482 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48635,7 +48677,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 542.0953 175.8876 0)
+			(at 542.036 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48644,7 +48686,7 @@
 			)
 		)
 		(property "Footprint" "CC0402KRX7R7BB104:C0402"
-			(at 544.5845 186.5556 0)
+			(at 544.5252 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48653,7 +48695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 543.6193 182.7456 0)
+			(at 543.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48662,7 +48704,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 543.6193 182.7456 0)
+			(at 543.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
