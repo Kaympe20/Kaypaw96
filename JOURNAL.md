@@ -116,3 +116,21 @@ Here's what the microcontroller section looks like:
 Time Spent: 4.5 hr
 
 ---
+
+I finished the PCB!!!! 🎊🥳💃🎉📢📣 (almost, tomorrow I'll figure out the hole size I need for gasket mounting)
+
+I did all of the requisite wiring and looked thorugh all of my DRC checkers to see if there was any major issues.
+
+As per [@mra](https://github.com/MichaByte)'s suggestion, I set the ground fill to both sides and put in a bunch of vias to connect all of the unconnected areas (that I had to constantly change to no layers to check where the unconnected areas were).
+
+I now have 0 unconnected areas, except for the sides of my heart, which is now broken after spending so much time on a keyboard that might not work.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/715b3190ecb2dc63c2680e1454ab7009639b5550_image.png)
+
+I also had to add a few more decoupling capacitors as per the spec, which, as always, required a lot of rerouting.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fbb6ea6decf185ebf913c7b77f0a7d98101782df_image.png)
+
+Time Spent: 3.5hr
+
+---

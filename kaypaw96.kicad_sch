@@ -6516,6 +6516,16 @@
 	)
 	(wire
 		(pts
+			(xy 490.22 218.44) (xy 492.76 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0361576c-9ea3-4c3d-8cd6-c5a3bce1d8a9")
+	)
+	(wire
+		(pts
 			(xy 359.41 311.15) (xy 364.49 311.15)
 		)
 		(stroke
@@ -40912,6 +40922,73 @@
 			(project ""
 				(path "/a6e0ccda-1535-44e0-8d50-fb561a448480"
 					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 490.22 218.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "952d9987-bd75-46b0-966a-d167b125ca08")
+		(property "Reference" "#PWR0243"
+			(at 494.03 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 486.41 218.4399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 490.22 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 490.22 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 490.22 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e8e8cf5a-4c78-4236-bd98-a1723af45739")
+		)
+		(instances
+			(project ""
+				(path "/a6e0ccda-1535-44e0-8d50-fb561a448480"
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
