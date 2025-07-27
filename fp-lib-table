@@ -14,4 +14,6 @@
   (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "XKB_U262-16XN-4BVC11")(type "KiCad")(uri "${KIPRJMOD}/imports/XKB_U262-16XN-4BVC11/USB_C_Recepticle.pretty/")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
 )

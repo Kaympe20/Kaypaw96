@@ -7,4 +7,5 @@
   (lib (name "CL05A106MQ5NUNC")(type "KiCad")(uri "${KIPRJMOD}/imports/CL05A106MQ5NUNC/CL05A106MQ5NUNC.kicad_sym")(options "")(descr ""))
   (lib (name "CL05A105KP5NNNC")(type "KiCad")(uri "${KIPRJMOD}/imports/CL05A105KP5NNNC/CL05A105KP5NNNC.kicad_sym")(options "")(descr ""))
   (lib (name "PZ254V-11-02P")(type "KiCad")(uri "${KIPRJMOD}/imports/PZ254V-11-02P/PZ254V-11-02P.kicad_sym")(options "")(descr ""))
+  (lib (name "XKB_U262-16XN-4BVC11")(type "KiCad")(uri "${KIPRJMOD}/imports/XKB_U262-16XN-4BVC11/USB_C_Recepticle.kicad_sym")(options "")(descr ""))
 )

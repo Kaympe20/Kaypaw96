@@ -1,4 +1,4 @@
-27429554544824942
+27433061824488651
 ABM8_272_T3
 XTAL_ABM8-272-T3
 
@@ -67906,6 +67906,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -109969,3 +109976,10 @@ Varistor VF
 0
 2
 2
+XKB_U262-16XN-4BVC11
+USB-3.1-SMD_U262-161N-4BVC11
+
+
+0
+18
+16

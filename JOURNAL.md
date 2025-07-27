@@ -134,3 +134,13 @@ I also had to add a few more decoupling capacitors as per the spec, which, as al
 Time Spent: 3.5hr
 
 ---
+
+I finished the mounting holes and added holes for stabalizers. Originally I wanted to forego using screws and wanted to do a gasket mounting setup, but with cost quickly becoming something I have to look out for, I'll leave the mounting holes, and get poron foam to laser cut at my local library should there be room in the budget.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22c9884f2c6bb00e12e90d567b5b5a02abd7370e_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c07e9161458d1a15d8bfe113bbab5cb01e940622_image.png)
+
+Time Spent: 1hr
+
+---
