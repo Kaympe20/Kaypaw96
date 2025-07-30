@@ -144,3 +144,15 @@ I finished the mounting holes and added holes for stabalizers. Originally I want
 Time Spent: 1hr
 
 ---
+
+I added some more mounting holes and altered the size to be much better matched to the actual size of m3 screws.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1a15580df9dcf5cc04aca85b4971ac32b9d3a9f2_image.png)
+
+I also began CAD and started trying to figure out how to add a plate for my switches.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/33a10dfc5320d5261699ccb3653b07a8fb749d55_image.png)
+
+Time Spent: 1.5hr
+
+---
