@@ -205,3 +205,47 @@ Then I added some mounting screw holes with a counterbore so the screw head woul
 Time Spent: 2.5hr
 
 ---
+
+I added each switch (*one by one*) into Onshape so I could have a full render.
+
+First with the function row
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c8aee10a99065d392f97ba9b3b6aabed2d8b2f49_image.png)
+
+Then with the numpad:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0646b4b8e30400f7af2ebad74f839537f4a946cb_image.png)
+
+and then just idk general area
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/09222dcb7967e56d02236c06ad780a6907e041ed_image.png)
+
+Here's the fully setup:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa4b33d606c7016567fc0c7a4ec51e288977665e_image.png)
+
+(The different colors are from pulling the keycap models from different places.)
+
+Time Spent: 2hr
+
+---
+
+I saw this video that told me to use [kbfirmware.com](https://kbfirmware.com/), so I imported my layout into it.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a1009d172615e52786f6a38a5cb775ce2d84a7a0_image.png)
+
+It did not import correctly at all, wrong number of cols and rows and some stuff isn't routed to the right place. Since you can't do bulk operations, I'll have to do something that's becoming something of a trend on this keyboard and do it one by one.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/070ec6d248b197265694d31ced1f74cf1a2df97e_image.png)
+
+I then moved on to the keymap phase. The [QMK Keycode Docs](https://docs.qmk.fm/keycodes) were super easy to use and quite helpful.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef3fa6f341ecf75811b1d7ec73334cffc2f75e5c_image.png)
+
+The task took so time but this work layout made it so much more efficient to work on.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f6fcd36f9f5020043613be19c81005587d47d449_image.png)
+
+Time Spent: 1.5hr
+
+---
