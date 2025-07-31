@@ -9,6 +9,8 @@ created_at: "2024-07-03"
 
 ---
 
+## July 4, 2025
+
 I setup the layout using [keyboard-layout-editor](https://keyboard-layout-editor.com/)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ee1725c6bd7e4fd20f30cdcb9966434611b743f4_image.png)
@@ -62,6 +64,8 @@ Time Spent: 1.5hr
 
 ---
 
+## July 5, 2025
+
 I got a dark theme to stop searing my eyes and got capacitors for the NeoPixels, as well as having to figure out that 0.1uF is the same as 100nF.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc9e8e9d4b430f0bbe956d89ae7ef471cf1f8c21_image.png)
@@ -94,6 +98,8 @@ Time Spent: 1.5hr
 
 ---
 
+## July 6, 2025
+
 I added more capacitors as per the spec of the SK6812-MINI's... 52 of them. I love KiCAD 👍.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6c4dc1273d6f9d76a6ed650c2f125c67bf88eb20_image.png)
@@ -101,6 +107,8 @@ I added more capacitors as per the spec of the SK6812-MINI's... 52 of them. I lo
 Time Spent: 1.5hr
 
 ---
+
+## July 25, 2025
 
 I started wiring everything to do with the microcontrollers and all of its additional parts. It got hectic and chaotic very quickly.
 
@@ -122,6 +130,8 @@ Time Spent: 4.5 hr
 
 ---
 
+## July 26, 2025
+
 I finished the PCB!!!! 🎊🥳💃🎉📢📣 (almost, tomorrow I'll figure out the hole size I need for gasket mounting)
 
 I did all of the requisite wiring and looked thorugh all of my DRC checkers to see if there was any major issues.
@@ -140,6 +150,8 @@ Time Spent: 3.5hr
 
 ---
 
+## July 27, 2025
+
 I finished the mounting holes and added holes for stabalizers. Originally I wanted to forego using screws and wanted to do a gasket mounting setup, but with cost quickly becoming something I have to look out for, I'll leave the mounting holes, and get poron foam to laser cut at my local library should there be room in the budget.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22c9884f2c6bb00e12e90d567b5b5a02abd7370e_image.png)
@@ -149,6 +161,8 @@ I finished the mounting holes and added holes for stabalizers. Originally I want
 Time Spent: 1hr
 
 ---
+
+## July 29, 2025
 
 I added some more mounting holes and altered the size to be much better matched to the actual size of m3 screws.
 
@@ -179,6 +193,8 @@ The grey "𝑓𝑥" indicates they are calculated instead of a set variable.
 Time Spent: 2hr
 
 ---
+
+## July 30, 2025
 
 I looked at Joe Scotto's How to Design Mechanical Keyboard Plates and Cases [as reccomended by the hackpad guide](https://hackpad.hackclub.com/resources), and got a DXF of my keyboard layout.
 
@@ -254,6 +270,8 @@ The task took so time but this work layout made it so much more efficient to wor
 Time Spent: 1.5hr
 
 ---
+
+## July 31, 2025
 
 I went and did some light customization to really make this keyboard my own, including a logo made in MS paint:
 
