@@ -1,4 +1,7 @@
+![](logo.png)
 # Kaypaw96
+
+<br>
 
 A Southpaw 96% keyboard because numpads on the left are awesome
 * They allow the keyboard to be centered on your desk.
@@ -13,7 +16,13 @@ A Southpaw 96% keyboard because numpads on the left are awesome
 
 ---
 
+I made this keyboard because, as an ambidextrous person, I often feel like my left hand is under-utilized while I am doing productivity, coding, and gaming. I also use a 75% and sometimes miss having more keys, so I wanted to make a keyboard that gave you nearly every key of a regular keyboard, plus 4 additional macro keys for things like sleep.
+
 ## Pics
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a948a6eb15daa1f361da880bb4d506abb30cafa_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0fb908c447d40166752003b449e64decb7ff510_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d5edd87bac1dafcfa62d9dc9996c3a33b468e567_image.png)
 
