@@ -156,3 +156,52 @@ I also began CAD and started trying to figure out how to add a plate for my swit
 Time Spent: 1.5hr
 
 ---
+
+The holes were intersecting the stabalizers so I changed the position which required redoing half of the work I did.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/739f4c91b62ef06cd610a85bc7ff1dbd35691d43_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d369163766ed07542c1b771d145b08ea510d554c_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f465c7b7e9a7cbbe0b9b26e1a5a38b08aa6d3fdb_image.png)
+
+While I was working on that, I decided to go and switch the measurements to variables to allow me to change them *en mas* later if tolerances don't allow.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a10b27e9b45d811591f30ed3a52f0ab01b5b524_image.png)
+
+The grey "𝑓𝑥" indicates they are calculated instead of a set variable.
+
+Time Spent: 2hr
+
+---
+
+I looked at Joe Scotto's How to Design Mechanical Keyboard Plates and Cases [as reccomended by the hackpad guide](https://hackpad.hackclub.com/resources), and got a DXF of my keyboard layout.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0f09f938b1bc08be35bbe01c380dfd9efd3ebcb_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3b10ea10024651e0685144ded0c1257a5446c387_image.png)
+
+Here's what extruding that plate gave me:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/60860960621cc92958883212a19fe0e59e82ba57_image.png)
+
+After that, I went and looked at this Keychron V1 product image and realized that there was the elevated sections where the weren't any surrounding keys.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a634fd5a1913ac03455aa6761e70d594d9bf5c4e_keychron.webp.png)
+
+So I sketched out all of the areas where the weren't any keys and dimensioned them using dimensions I found on this datasheet on Google Drive.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/928b2a243a3f5e465ddb240a74f1a50319ca09eb_image.png)
+
+Here's what it looks like as a unit.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bca3440b6990f9fae275319474013471fcafe843_image.png)
+
+Then I added some mounting screw holes with a counterbore so the screw head wouldn't stick out.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/53160d2128d986d0d1edbd549c60317b64868fdf_image.png)
+
+
+Time Spent: 2.5hr
+
+---
