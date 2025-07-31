@@ -4,6 +4,11 @@ author: "Kayla Blosser aka @Kayla"
 description: "A southpaw 96% keyboard"
 created_at: "2024-07-03"
 ---
+
+### **Total Time Spent: 43hr**
+
+---
+
 I setup the layout using [keyboard-layout-editor](https://keyboard-layout-editor.com/)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ee1725c6bd7e4fd20f30cdcb9966434611b743f4_image.png)
@@ -247,5 +252,15 @@ The task took so time but this work layout made it so much more efficient to wor
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f6fcd36f9f5020043613be19c81005587d47d449_image.png)
 
 Time Spent: 1.5hr
+
+---
+
+I went and did some light customization to really make this keyboard my own, including a logo made in MS paint:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c4d9b009921697d6353def71946d825573ff2b20_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/048713e762cbde78e4d0c6b09361a31dc0fbfe0c_image.png)
+
+Time Spent: 1hr
 
 ---
